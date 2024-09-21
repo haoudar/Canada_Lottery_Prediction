@@ -20,9 +20,8 @@ or in your prompt, type
 
 ``python main.py --data_dir 'dataset/lottery_history.csv' --mode 'eval_model' --trial 5 --training_lengt 0.90 ``  
 
-dataset version is on the date: [21.04.23]
+dataset version is on the date: [26.08.2023]
 
-you can update dataset from the Web:  https://dhlottery.co.kr/common.do?method=main
 
 ***Arguments:***
 
